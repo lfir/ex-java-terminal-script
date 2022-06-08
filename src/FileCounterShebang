@@ -1,4 +1,4 @@
-#! /usr/lib/jvm/java-18/bin/java  --source 18
+#!/usr/lib/jvm/java-18/bin/java --source 18
 
 import java.io.IOException;
 import java.nio.file.Files;
